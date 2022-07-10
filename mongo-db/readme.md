@@ -49,6 +49,17 @@ db.getCollection("cars").find({"$or": [{ "Cylinders": {"$gte": 2 } },
 
 1. run a query that finds the all the cars with the following name: "chevrolet impala"
 
+2. Contains in query
+
+```js
+db.getCollection("cars").find({
+  Name: { $in: ["chevrolet chevelle malibu", "buick skylark 320"] },
+});
+```
+
+3. Find all the cars that have more than 5 Cylinders and more than 200 Horsepower
+
+
 ## Homework
 
 1. Update - try to update many documents (UpdateMany)
