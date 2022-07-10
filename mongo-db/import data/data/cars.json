@@ -1,0 +1,245 @@
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512506"),
+    "Name" : "chevrolet chevelle malibu",
+    "Miles_per_Gallon" : NumberInt(18),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(307),
+    "Horsepower" : NumberInt(130),
+    "Weight_in_lbs" : NumberInt(3504),
+    "Acceleration" : NumberInt(12),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512507"),
+    "Name" : "buick skylark 320",
+    "Miles_per_Gallon" : NumberInt(15),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(350),
+    "Horsepower" : NumberInt(165),
+    "Weight_in_lbs" : NumberInt(3693),
+    "Acceleration" : 11.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512508"),
+    "Name" : "plymouth satellite",
+    "Miles_per_Gallon" : NumberInt(18),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(318),
+    "Horsepower" : NumberInt(150),
+    "Weight_in_lbs" : NumberInt(3436),
+    "Acceleration" : NumberInt(11),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512509"),
+    "Name" : "amc rebel sst",
+    "Miles_per_Gallon" : NumberInt(16),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(304),
+    "Horsepower" : NumberInt(150),
+    "Weight_in_lbs" : NumberInt(3433),
+    "Acceleration" : NumberInt(12),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250a"),
+    "Name" : "ford torino",
+    "Miles_per_Gallon" : NumberInt(17),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(302),
+    "Horsepower" : NumberInt(140),
+    "Weight_in_lbs" : NumberInt(3449),
+    "Acceleration" : 10.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Seats" : [
+        NumberInt(5),
+        NumberInt(2),
+        NumberInt(7)
+    ]
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250b"),
+    "Name" : "ford galaxie 500",
+    "Miles_per_Gallon" : NumberInt(15),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(429),
+    "Horsepower" : NumberInt(198),
+    "Weight_in_lbs" : NumberInt(4341),
+    "Acceleration" : NumberInt(10),
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Seats" : [
+        5.0,
+        6.0
+    ]
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250c"),
+    "Name" : "chevrolet impala",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(454),
+    "Horsepower" : NumberInt(220),
+    "Weight_in_lbs" : NumberInt(4354),
+    "Acceleration" : NumberInt(9),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250d"),
+    "Name" : "plymouth fury iii",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(440),
+    "Horsepower" : NumberInt(215),
+    "Weight_in_lbs" : NumberInt(4312),
+    "Acceleration" : 8.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250e"),
+    "Name" : "pontiac catalina",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(455),
+    "Horsepower" : NumberInt(225),
+    "Weight_in_lbs" : NumberInt(4425),
+    "Acceleration" : NumberInt(10),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae51250f"),
+    "Name" : "amc ambassador dpl",
+    "Miles_per_Gallon" : NumberInt(15),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(390),
+    "Horsepower" : NumberInt(190),
+    "Weight_in_lbs" : NumberInt(3850),
+    "Acceleration" : 8.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512510"),
+    "Name" : "citroen ds-21 pallas",
+    "Miles_per_Gallon" : null,
+    "Cylinders" : NumberInt(4),
+    "Displacement" : NumberInt(133),
+    "Horsepower" : NumberInt(115),
+    "Weight_in_lbs" : NumberInt(3090),
+    "Acceleration" : 17.5,
+    "Year" : "1970-01-01",
+    "Origin" : "Europe"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512511"),
+    "Name" : "chevrolet chevelle concours (sw)",
+    "Miles_per_Gallon" : null,
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(350),
+    "Horsepower" : NumberInt(165),
+    "Weight_in_lbs" : NumberInt(4142),
+    "Acceleration" : 11.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512512"),
+    "Name" : "ford torino (sw)",
+    "Miles_per_Gallon" : null,
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(351),
+    "Horsepower" : NumberInt(153),
+    "Weight_in_lbs" : NumberInt(4034),
+    "Acceleration" : NumberInt(11),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512513"),
+    "Name" : "plymouth satellite (sw)",
+    "Miles_per_Gallon" : null,
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(383),
+    "Horsepower" : NumberInt(175),
+    "Weight_in_lbs" : NumberInt(4166),
+    "Acceleration" : 10.5,
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512514"),
+    "Name" : "amc rebel sst (sw)",
+    "Miles_per_Gallon" : null,
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(360),
+    "Horsepower" : NumberInt(175),
+    "Weight_in_lbs" : NumberInt(3850),
+    "Acceleration" : NumberInt(11),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512515"),
+    "Name" : "dodge challenger se",
+    "Miles_per_Gallon" : NumberInt(15),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(383),
+    "Horsepower" : NumberInt(170),
+    "Weight_in_lbs" : NumberInt(3563),
+    "Acceleration" : NumberInt(10),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb058921ec8e02ae512516"),
+    "Name" : "plymouth 'cuda 340",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(340),
+    "Horsepower" : NumberInt(160),
+    "Weight_in_lbs" : NumberInt(3609),
+    "Acceleration" : NumberInt(8),
+    "Year" : "1970-01-01",
+    "Origin" : "USA"
+}
+{
+    "_id" : ObjectId("62cb0daebeb5470d0785bbde"),
+    "Name" : "plymouth 'cuda 340",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(340),
+    "Horsepower" : NumberInt(160),
+    "Weight_in_lbs" : NumberInt(3609),
+    "Acceleration" : NumberInt(8),
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Type" : [
+        "Sport",
+        "Exclusive",
+        "Familiy"
+    ]
+}
+{
+    "_id" : ObjectId("62cb0dd2beb5470d0785bbdf"),
+    "Name" : "plymouth 'cuda 340",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(340),
+    "Horsepower" : NumberInt(160),
+    "Weight_in_lbs" : NumberInt(3609),
+    "Acceleration" : NumberInt(8),
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Type" : [
+        "Sport"
+    ]
+}

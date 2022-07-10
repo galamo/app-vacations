@@ -59,6 +59,47 @@ db.getCollection("cars").find({
 
 3. Find all the cars that have more than 5 Cylinders and more than 200 Horsepower
 
+# Ex-2
+
+```js
+
+{
+
+    "Name" : "plymouth 'cuda 340",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(340),
+    "Horsepower" : NumberInt(160),
+    "Weight_in_lbs" : NumberInt(3609),
+    "Acceleration" : NumberInt(8),
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Type": [ "Sport", "Exclusive", "Familiy" ]
+}
+
+{
+
+    "Name" : "plymouth 'cuda 340",
+    "Miles_per_Gallon" : NumberInt(14),
+    "Cylinders" : NumberInt(8),
+    "Displacement" : NumberInt(340),
+    "Horsepower" : NumberInt(160),
+    "Weight_in_lbs" : NumberInt(3609),
+    "Acceleration" : NumberInt(8),
+    "Year" : "1970-01-01",
+    "Origin" : "USA",
+    "Type": [ "Sport" ]
+}
+
+
+db.getCollection("cars").find({ "Type": { $all: ["Sport"] } });
+```
+
+# Ex 3
+
+1. Build a query that return all the cars with 6 seats and Horsepower grater than 150
+
+2. Build a query that return all the cars with grater than 2 seats and Type Sport
 
 ## Homework
 
