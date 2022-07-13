@@ -2,7 +2,7 @@
 1. Clone
 2. run `npm install` in server folder
 3. run `docker compose up` in mongo-db folder
-4. run `npm start` & `npm run compile` in server folder
+4. run `npm run compile` & `npm start`  in server folder
 
 # Ex
 1. Create Schema for Product
